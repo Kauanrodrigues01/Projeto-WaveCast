@@ -1,4 +1,4 @@
-/* body{
+body{
     display: grid;
     grid-template-areas: 
     'aside header'
@@ -16,4 +16,4 @@ aside.menu-lateral{
 
 main.principal{
     grid-area: main;
-} */
+}

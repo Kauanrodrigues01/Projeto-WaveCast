@@ -1,4 +1,4 @@
-/* .navbar__items{
+.navbar__items{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto auto;
@@ -15,4 +15,4 @@
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
