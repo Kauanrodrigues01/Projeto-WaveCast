@@ -1,4 +1,4 @@
-.secao{
+/* .secao{
     display: grid;
     align-items: end;
     row-gap: 2rem;
@@ -17,4 +17,4 @@
 
 .secao-vertical .cartao .cartao__titulo{
     flex-grow: 1;
-}
+} */
