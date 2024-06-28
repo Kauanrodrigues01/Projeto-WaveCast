@@ -1,0 +1,20 @@
+.secao{
+    display: grid;
+    align-items: end;
+    row-gap: 2rem;
+    grid-template-rows: 70px auto;
+}
+
+.secao-horizontal{
+    grid-template-rows: 70px auto;
+}
+
+.secao-vertical .cartao a{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.secao-vertical .cartao .cartao__titulo{
+    flex-grow: 1;
+}
