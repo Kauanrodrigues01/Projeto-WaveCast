@@ -27,4 +27,3 @@ O projeto foca em ensinar como utilizar o Grid Layout para criar layouts que se 
 
 - **HTML5:** Estrutura básica do site.
 - **CSS3 com Grid Layout:** Estilização e criação de layouts responsivos.
-- **JavaScript:** Funcionalidades interativas (se aplicável).
